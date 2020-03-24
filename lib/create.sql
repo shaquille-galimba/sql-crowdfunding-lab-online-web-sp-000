@@ -1,4 +1,4 @@
-CREATE projects (
+CREATE TABLE projects (
   id INTEGER PRIMARY KEY,
   category TEXT,
   funding_goal REAL,
